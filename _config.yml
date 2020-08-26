@@ -85,10 +85,10 @@ author:
   bio              : "Astronomer"
   location         : "Leuven, Belgium"
   employer         : "KULeuven"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?hl=fr&view_op=list_works&gmla=AJsN-F6Qt6-veDPeBpeSfM-1h__JBeTo8vpXrUazIcnZDhvXBn2X3MZDtQKBC6TXOC1LxtMqCFrj1x0R8qGXHciWPa4KBaBU9p2RCv_m3zcsscMsXxs8Z9M&user=mtdu_T0AAAAJ"
   email            : "jacques.kluska@kuleuven.be"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Jacques_Kluska"
   uri              :
   bitbucket        :
   codepen          :
